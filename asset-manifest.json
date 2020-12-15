@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/trail-effect/static/css/main.03c5ddab.chunk.css",
-    "main.js": "/trail-effect/static/js/main.85284ff0.chunk.js",
-    "main.js.map": "/trail-effect/static/js/main.85284ff0.chunk.js.map",
+    "main.js": "/trail-effect/static/js/main.3ab62d45.chunk.js",
+    "main.js.map": "/trail-effect/static/js/main.3ab62d45.chunk.js.map",
     "runtime-main.js": "/trail-effect/static/js/runtime-main.4805c95e.js",
     "runtime-main.js.map": "/trail-effect/static/js/runtime-main.4805c95e.js.map",
-    "static/js/2.52ba91ee.chunk.js": "/trail-effect/static/js/2.52ba91ee.chunk.js",
-    "static/js/2.52ba91ee.chunk.js.map": "/trail-effect/static/js/2.52ba91ee.chunk.js.map",
+    "static/js/2.452f143c.chunk.js": "/trail-effect/static/js/2.452f143c.chunk.js",
+    "static/js/2.452f143c.chunk.js.map": "/trail-effect/static/js/2.452f143c.chunk.js.map",
     "index.html": "/trail-effect/index.html",
     "static/css/main.03c5ddab.chunk.css.map": "/trail-effect/static/css/main.03c5ddab.chunk.css.map",
-    "static/js/2.52ba91ee.chunk.js.LICENSE.txt": "/trail-effect/static/js/2.52ba91ee.chunk.js.LICENSE.txt",
+    "static/js/2.452f143c.chunk.js.LICENSE.txt": "/trail-effect/static/js/2.452f143c.chunk.js.LICENSE.txt",
     "static/media/nature1.5bc4c972.jpg": "/trail-effect/static/media/nature1.5bc4c972.jpg",
     "static/media/nature2.cb6c8ed0.jpg": "/trail-effect/static/media/nature2.cb6c8ed0.jpg",
     "static/media/nature3.610380c5.jpg": "/trail-effect/static/media/nature3.610380c5.jpg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4805c95e.js",
-    "static/js/2.52ba91ee.chunk.js",
+    "static/js/2.452f143c.chunk.js",
     "static/css/main.03c5ddab.chunk.css",
-    "static/js/main.85284ff0.chunk.js"
+    "static/js/main.3ab62d45.chunk.js"
   ]
 }
