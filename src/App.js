@@ -32,7 +32,7 @@ export default function App() {
        
           <a
             className="frame__link"
-            href="https://isengupt.github.io/fiber-website/"
+            href="http://isengupt.github.io/sticky-scroll/"
           >
             Previous
           </a>
